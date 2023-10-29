@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>linked page</title>
+    <link rel="stylesheet" href="majorassignment.css">
+</head>
+<bodY>
+    <div style="width: 100%; height: 50px; background-color: white;" class="top">
+    <img src="linkedlogo.avif" alt="no image" width="25px" height="25px" >
+    <form> <input type="text" placeholder="search" class="search"></form>
+    <div class="image"><img src="home.png" alt="no image" width="40px" height="40px" class="image1">
+    <img src="people.jpg" alt="no image" width="40px" height="40px">
+    <img src="jobs.png" alt="no image" width="40px" height="40px">
+    <img src="message.jpg" alt="no image" width="40px" height="40px">
+    <img src="notification.jpg" alt="no image" width="40px" height="40px">
+   <!-- <img src="line.png" alt="no image" width="40px" height="40px">--> 
+    <img src="people2.png" alt="no image" width="40px" height="40px">try premium free for 1 months<br>
+</div>
+</div>
+    <div class="container">
+        <div id="one"> <img src="Profile image.png" alt="no image" width="50px" height="50px;">
+        <h3>Yash Sharma</h3> tehinical trainer at skill academy <hr>Connections <span style="color: blue; text-align: right;">30</span><br><b>Grow your network</b>
+    <br>Who viewed your profile <span style="color: blue; text-align: end;">30</span><hr>
+access exclusive tools and sights<br>
+<b>try premium for one month</b><hr><b>My items</b><br><hr>Recent <br>#Tensorflow<br>#Tensorflow<br>#Tensorflow
+<br>#Tensorflow<br>#Tensorflow <br><br><span style="color: blue;">groups</span><br>Tensorflow<br>Tensorflow <br><br>
+<span style="color: blue;">Followed Hashtags </span><br>#Tensorflow <br>#Tensorflow</div>
+        <div id="two"><img src="Profile image.png" alt="no image" width="30px" height="30px">
+        <!--<div id="two-i">Start a post</div>---->
+        <form> <input type="text" placeholder="write a post" ></form><br>
+        <img src="photos.jpg" alt="no image" width="30px" height="30px">photos
+        <img src="video.png" alt="no image" width="30px" height="30px">videos
+        <img src="event.png" alt="no image" width="30px" height="30px">event
+        <img src="article.jpg" alt="no image" width="30px" height="30px">writing notes
+        </div>
+        <div id="three"><b>Linkedin News </b><!--<img src="" alt="">--><br>
+        <ul><Li><b>Indian crosses 3,58,974 daily cases</b> <br>10h ago-5043readers</Li>
+            <Li><b>Zomato files for $1.18 ipo</b> <br>13h ago- 52043 readers</Li>
+            <Li><b>Jobs pay, in IT soar</b> <br>1d ago-7865readers</Li>
+            <Li><b>google saving $1B A YEAR FROM wfh</b> <br>2d ago-7865readers</Li></ul></div>
+        <div id="four"><img src="myntra logo.jpg" alt="no image" width="50px" height="50px" id="myntra">
+            <span style="float: left;"><b>myntra fashion</b><br>792,456 followers <br>promoted</span>
+        <span style="float: right;">...</span>
+        <img src="Demo post image.jpg" alt="no image" width="100%" height="300px"><br>
+        <a href="Like.svg">like</a>
+        <a href="Appreciate.svg">comment</a>
+        <a href="Clap.svg">share</a>
+       </div>
+        <div id="five"><b>Today's most viewed courses</b> <!--<img src="" alt="">--><br>
+            <ul><Li><b>Indian crosses 3,58,974 daily cases</b> <br>Top news 9874-reviews</Li>
+                <Li><b>Indian crosses 3,58,974 daily cases</b> <br>Top news 9874-reviews</Li></div>
+        <div id="six"><b>Add to your feed</b></div>
+        <div id="seven"><img src="Profile logo of yash.jpg" alt="nop image" width="70px" height="70px" class="yash">
+            <span style="float: left;"><b>Yash sharma</b><br>10 million-followers<br>youtube channel</span><br><br><br><br><br>
+            Published new video on CSS property box model,this video will run through few more properties that make up the
+            box-model,margin border,padding,content-height &width.
+            <video controls width="100%" height="400px">
+            <source src="Demo post video.mp4">
+        </video><a href="Like.svg">like</a>
+        <a href="Appreciate.svg">comment</a>
+        <a href="Clap.svg">share</a></div>
+    </div>
+    </body>
+</html>
